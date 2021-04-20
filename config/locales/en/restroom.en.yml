@@ -25,7 +25,7 @@ en:
       kilometers: kilometers
     comments_hint: '(e.g.: you have to be a "paying customer", just act like you are browsing for a bit...)'
     comments: 'Comments'
-    accessible: 'Accessible'
+    accessible: 'Accessible <a href='/a11y'>What makes a restroom accessible?</a>'
     not_accessible: 'Not accessible'
     changing_table: 'Changing table'
     no_changing_table: 'No changing table'
